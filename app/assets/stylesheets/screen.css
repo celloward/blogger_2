@@ -5,8 +5,7 @@
 div.field_with_errors label{color: red; font-weight:bold}
 div.field_with_errors input{border: 3px solid red}
 .tags {
-    font-size: 25px;
-    color: red;
+    font-size: 22px;
     padding-bottom: 30px;
     
 }
