@@ -15,9 +15,9 @@ This is a blogging platform built using Ruby on Rails. It is a toy app built as 
   bundle install
   rails db:migrate
   ``` 
-  * From inside the cloned directory, run `rails server` to start the local webpage.
-  * To run the app on the local server, type `localhost:3000` into an internet browser. 
+  * To run the app locally enter `rails server` from the cloned directory.
+  * To view the app in the browser, enter `localhost:3000` as the URL. 
 
 ## Models
-The `articles` model is the hub around which the other models center. The `tag`, `comment`, and `attachemnt` models belong to it. `tags` utilize the `tagging` model to allow for reuse of tags for multiple articles.
+The `articles` model is the hub around which the other models center. The `tag`, `comment`, and `attachment` models belong to it. `tags` utilize the `tagging` model to allow for reuse of tags for multiple articles.
 
