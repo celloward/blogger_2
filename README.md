@@ -1,4 +1,4 @@
-# blogger_2
+# Blogger App
 This is a blogging platform built using Ruby on Rails. It is a toy app built as part of <a href="https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails">The Odin Project's Full Stack Ruby on Rails course</a> and follows the <a href="http://tutorials.jumpstartlab.com/projects/blogger.html">Jumpstart Labs Rails tutorial</a>. 
 
 ## Cloning
