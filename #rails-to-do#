@@ -1,0 +1,5 @@
+TODO
+  * Simplify tag string
+  * Destroy Article IDs not associated with articles
+  * Security
+  * Actually validate attachment type
