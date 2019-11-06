@@ -3,7 +3,7 @@ class Tag < ApplicationRecord
     has_many :articles, through: :taggings
 
     def to_s
-        name
+        self[:name]
     end
-end
 
+end
